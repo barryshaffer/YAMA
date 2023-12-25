@@ -1,2 +1,21 @@
-# YAMA
-Yet Another Moxon Antenna (YAMA). My version of the poor man's beam. 
+# YAMA: Yet Another Moxon Antenna
+
+Welcome! This is my personal journey in crafting a budget-friendly, effective and protable antenna.
+
+### The What
+Before delving into the details, I realize not everyone who stumbles upon this page may be familiar with Moxon antennas - it's more common to find coding resources than antenna construction guides here. So, with the help of chatGPT, here's a simple explanation of a Moxon antenna:
+
+>A Moxon antenna is a two-element directional antenna, primarily used for shortwave frequencies. It consists of a driven element and a slightly larger parasitic element, forming a rectangle with a small gap at the non-fed ends. This design offers several benefits: it has a compact size, provides good front-to-back ratio, and exhibits a directional radiation pattern. 
+
+### The Why 
+In the vast sea of internet resources, you'll find plenty of technical specifics and dimensions for building a proper Moxon antenna. However, converting those specifications into a physical entity is a different challenge. The key elements are the booms that support the antenna wire and the hub that aligns these booms in a 140-degree 'X' pattern. The existing designs online are varied, but none seemed to match the materials or tools I had on hand or could easily source. Therefore, I decided to contribute my own design approach to the online community, hoping it might aid others in their antenna-building endeavors.
+
+### The How
+#### The supports (boom)
+For the supports I went with the common appoach of using japanese fishing rods. I tried several but found the [GOTURE GOLDENLITE series](https://www.amazon.com/gp/product/B0C7CF2Y3W/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&th=1&psc=1) to be the best. They are well constructed, thicker and stiffer than other poles of this type. I also like that their handles are ruberized with a metal ferrule which makes them eaisier to secure to the hub. Best of all they are cheap - I bought a two pack during black friday for $28 off Amazon. 
+It is important to buy these longer than needed as the tip sections are really too thin to support the antenna wire. Removing the first 3 sections will get you down to the stiffer sections of the rod which reduces the overall length of the rod by 28-36". I went with a 12ft rod for my 10m moxon and a 18ft for the 20m version.
+
+#### The Hub
+##### Adapter 
+The hub will be constructed out of common pvc. To secure the rod to the hub, I made an adapter out of 3/4" pvc pipe swaged at one end to lock into the ferrule on the handle of the fishing pole. 
+The handle on the 18ft poles fit like a glove into SCH80 3/4" pipe. The thin wall of SCH80 also make it really easy to swage. Swaging was accomplished with a heat gun an a small cocktail jigger. PVC starts to melt between 212-500 degrees fahrenheit so even a hair dryer could probably work. Just heat a small section of end of the pipe until soft then force into the taper of the jigger and let cool.
