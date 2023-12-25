@@ -19,3 +19,5 @@ It is important to buy these longer than needed as the tip sections are really t
 ##### Adapter 
 The hub will be constructed out of common pvc. To secure the rod to the hub, I made an adapter out of 3/4" pvc pipe swaged at one end to lock into the ferrule on the handle of the fishing pole. 
 The handle on the 18ft poles fit like a glove into SCH80 3/4" pipe. The thin wall of SCH80 also make it really easy to swage. Swaging was accomplished with a heat gun an a small cocktail jigger. PVC starts to melt between 212-500 degrees fahrenheit so even a hair dryer could probably work. Just heat a small section of end of the pipe until soft then force into the taper of the jigger and let cool.
+
+![Swaged PVC](https://github.com/barryshaffer/YAMA/blob/435c7625eb1c647ae48c7a9d35351c36f6be3cd8/images/PXL_Adapter.jpg "hub adapter")
