@@ -10,6 +10,10 @@ Before delving into the details, I realize not everyone who stumbles upon this p
 ### The Why 
 In the vast sea of internet resources, you'll find plenty of technical specifics and dimensions for building a proper Moxon antenna. However, converting those specifications into a physical entity is a different challenge. The key elements are the booms that support the antenna wire and the hub that aligns these booms in a 140-degree 'X' pattern. The existing designs online are varied, but none seemed to match the materials or tools I had on hand or could easily source. Therefore, I decided to contribute my own design approach to the online community, hoping it might aid others in their antenna-building endeavors.
 
+### The Approach
+My approach to the moxon was is pretty basic with the common fishing pole approach. Something I think is unique the use of the crimped eyelets on the antenna wire and tethers to connect them to the end of the fishing rods. I believe this design allows you to be much less accurate in boom length and hub angle yet still a perfect rectangular antenna shape. I wanted to keep the antenna wire assembly as light as possible so I used yard trimmer wire for the insulators. A small piece of poly tubing is used to fix the wire to the trimmer line. (I'll most likely change this out to shrink sleeve when I'm happy with the tune.) I also added an integral common mode choke at the top of the mast.
+![Antenna overview](./images/IMG_0361.jpeg)
+
 ### The How
 ### Parts List
 1. 4x 3.6M telescopic fishing rods (the best I found were [GOTURE GOLDENLITE series](https://www.amazon.com/gp/product/B0C7CF2Y3W/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&th=1&psc=1))
