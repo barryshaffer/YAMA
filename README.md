@@ -53,3 +53,6 @@ To create the hub, I used two PVC pipes and placed them between two 2x4's. I hea
 To ensure a secure fit, the ends of the 1" PVC were heated with a heat gun to enlarge them and allow the 3/4" PVC to fit inside. This provided a longer engagement between the adapter and hub, approximately 5 inches.
  
 ![Hub Dimensions](./images/PXL_20240125_014349467.MP_Original.jpeg)
+
+#### The Tethers
+The tethers are my favorite part of this design. They simplify the attachment of the elements to the booms and their lengthis used to adjust the amount of tension/bend you put on the booms. I made my tethers based on my shortest element putting the most tension on the booms. The tension decreases as I move to the longer elements of other bands
