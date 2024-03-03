@@ -57,4 +57,4 @@ To ensure a secure fit, the ends of the 1" PVC were heated with a heat gun to en
 #### The Tethers
 The tethers are my favorite part of this design. They simplify the attachment of the elements to the booms and their lengthis used to adjust the amount of tension/bend you put on the booms. I made my tethers based on my shortest element putting the most tension on the booms. The tension decreases as I move to the longer elements of other bands.
 
-![Tether instructions](./images/IMG_0376.jpeg)
+![Tether instructions](./images/IMG_0377.jpeg)
