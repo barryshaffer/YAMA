@@ -56,7 +56,7 @@ To ensure a secure fit, the ends of the 1" PVC were heated with a heat gun to en
 
 If you have a 3d printer with enough capacity you can print this un elegant, totally over engineered hub (read uses way too much filament). I made it to support a 20m version of the same antenna (it could probably handle a 40m if I could find the booms) in anycase I printed it in PETG with the center mast support facing down with support that should put most of the layer lines transverse to much of the stresses of the hub. I did use supports to keep the center hole from drooping. The hub is split into 4 symetrical pieces - I was able to print 2 parts at a time on my 10"x10"x10" bed. The hose clamps in the picture are probalby unnecessary once the hub is bolted to the center mast - there is nothing that wants to pull the booms out in normal use and there is more than enough engagement here. For a 10m moxon this hub design should be a third the size - but I already printed it so...
 
-![3d Printed Hub](./images/3dhub.jpeg)
+![3d Printed Hub](./images/3dhub.jpg)
 
 
 #### The Tethers
