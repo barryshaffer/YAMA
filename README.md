@@ -1,4 +1,4 @@
-# YAMA: Yet Another Moxon Antenna
+# YAMA 2.0: Yet Another Moxon Antenna
 
 Welcome! This is my personal journey in crafting a budget-friendly, effective and protable antenna.
 
@@ -42,7 +42,7 @@ For the supports I went with the common appoach of using japanese fishing rods. 
 It is important to buy these longer than needed as the tip sections are really too thin to support the antenna wire. Removing the first 3 sections will get you down to the stiffer sections of the rod which reduces the overall length of the rod by 28-36". I went with a 12ft rod for my 10m moxon and a 18ft for the 20m version.
 
 #### Adapters 
-The hub will be constructed out of common pvc. To secure the rod to the hub, I made an adapter out of 3/4" pvc pipe swaged at one end to lock into the ferrule on the handle of the fishing pole. 
+The hub will be constructed out of common pvc. (or 3d printed parts in the file list) To secure the rod to the hub, I made an adapter out of 3/4" pvc pipe swaged at one end to lock into the ferrule on the handle of the fishing pole. 
 The handle on the 18ft poles fit like a glove into SCH80 3/4" pipe. The thin wall of SCH80 also make it really easy to swage. Swaging was accomplished with a heat gun an a small cocktail jigger. PVC starts to melt between 212-500 degrees fahrenheit so even a hair dryer could probably work. Just heat a small section of end of the pipe until soft then force into the taper of the jigger and let cool.
 
 ![Swaged Adapter](./images/PXL_Adapter.jpg)
@@ -53,6 +53,11 @@ To create the hub, I used two PVC pipes and placed them between two 2x4's. I hea
 To ensure a secure fit, the ends of the 1" PVC were heated with a heat gun to enlarge them and allow the 3/4" PVC to fit inside. This provided a longer engagement between the adapter and hub, approximately 5 inches.
  
 ![Hub Dimensions](./images/PXL_20240125_014349467.MP_Original.jpeg)
+
+If you have a 3d printer with enough capacity you can print this un elegant, totally over engineered hub (read uses way too much filament). I made it to support a 20m version of the same antenna (it could probably handle a 40m if I could find the booms) in anycase I printed it in PETG with the center mast support facing down with support that should put most of the layer lines transverse to much of the stresses of the hub. I did use supports to keep the center hole from drooping. The hub is split into 4 symetrical pieces - I was able to print 2 parts at a time on my 10"x10"x10" bed. The hose clamps in the picture are probalby unnecessary once the hub is bolted to the center mast - there is nothing that wants to pull the booms out in normal use and there is more than enough engagement here. For a 10m moxon this hub design should be a third the size - but I already printed it so...
+
+![3d Printed Hub](./images/3dhub.jpeg)
+
 
 #### The Tethers
 The tethers are my favorite part of this design. They simplify the attachment of the elements to the booms and their lengthis used to adjust the amount of tension/bend you put on the booms. I made my tethers based on my shortest element putting the most tension on the booms. The tension decreases as I move to the longer elements of other bands.
