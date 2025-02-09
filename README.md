@@ -39,7 +39,7 @@ Elements:
 
 #### The supports (boom)
 For the supports I went with the common appoach of using japanese fishing rods. I tried several but found the [GOTURE GOLDENLITE series](https://www.amazon.com/gp/product/B0C7CF2Y3W/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&th=1&psc=1) to be the best. They are well constructed, thicker and stiffer than other poles of this type. I also like that their handles are ruberized with a metal ferrule which makes them eaisier to secure to the hub. Best of all they are cheap - I bought a two pack during black friday for $28 off Amazon. 
-It is important to buy these longer than needed as the tip sections are really too thin to support the antenna wire. Removing the first 3 sections will get you down to the stiffer sections of the rod which reduces the overall length of the rod by 28-36". I went with a 12ft rod for my 10m moxon and a 18ft for the 20m version.
+It is important to buy these longer than needed as the tip sections are really too thin to support the antenna wire. Removing the first 3 sections will get you down to the stiffer sections of the rod which reduces the overall length of the rod by 28-36". I went with a 12ft rod for my 10m moxon and a 18ft for the ~~20m~~ 15M version (the Poles were just not ridged enough to support the amount of wire needed for the 20m  - unless you don't mind them to bow down like an umbrella - I like mine to bow up like a flower so I kept mine to 15M).
 
 #### Adapters 
 The hub will be constructed out of common pvc. (or 3d printed parts in the file list) To secure the rod to the hub, I made an adapter out of 3/4" pvc pipe swaged at one end to lock into the ferrule on the handle of the fishing pole. 
