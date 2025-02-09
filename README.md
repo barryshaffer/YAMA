@@ -9,7 +9,6 @@ Before delving into the details, I realize not everyone who stumbles upon this p
 
 ### The Why 
 In the vast sea of internet resources, you'll find plenty of technical specifics and dimensions for building a proper Moxon antenna. However, converting those specifications into a physical entity is a different challenge. The key elements are the booms that support the antenna wire and the hub that aligns these booms in a 140-degree 'X' pattern. The existing designs online are varied, but none seemed to match the materials or tools I had on hand or could easily source. Therefore, I decided to contribute my own design approach to the online community, hoping it might aid others in their antenna-building endeavors.
-![10M & 15M Moxons in action on WFD](./images/WFD_Moxons.jpg)
 
 ### The Approach
 My approach to the Moxon antenna is quite simple, using the common fishing pole method. What I find unique is the use of crimped eyelets on the antenna wire and tethers to connect them to the end of the fishing rods. This design allows for less accuracy in boom length and hub angle while still achieving a perfect rectangular antenna shape. To keep the antenna wire assembly lightweight, I used yard trimmer wire for the insulators. A small piece of poly tubing is used to secure the wire to the trimmer line. (I may replace this with shrink sleeve once I'm satisfied with the tuning.) Additionally, I added an integral common mode choke at the top of the mast.
@@ -64,3 +63,7 @@ If you have a 3d printer with enough capacity you can print this un elegant, tot
 The tethers are my favorite part of this design. They simplify the attachment of the elements to the booms and their lengthis used to adjust the amount of tension/bend you put on the booms. I made my tethers based on my shortest element putting the most tension on the booms. The tension decreases as I move to the longer elements of other bands.
 
 ![Tether instructions](./images/IMG_0377.jpeg)
+
+Here are both the 10M and 15M versions in action at Winter Field Day. 
+![10M & 15M Moxons in action on WFD](./images/WFD_Moxons.jpg)
+
