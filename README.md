@@ -48,7 +48,8 @@ The handle on the 18ft poles fit like a glove into SCH80 3/4" pipe. The thin wal
 ![Swaged Adapter](./images/PXL_Adapter.jpg)
 
 Alternatively, if you have a 3d printer, you can remove the rubber grips from the rods, print and install these adapters. Some heat shrink secures them in place. 
-![Printed Adapters](./image/PXL_20260208_adapter.jpg)
+
+![Printed Adapters](./images/PXL_20260208_adapter.jpg)
 
 #### The Hub
 To create the hub, I used two PVC pipes and placed them between two 2x4's. I heated the PVC pipes with a heat gun to make them soft and then pressed them together. The angles of the pipes don't need to be precise, especially since the tethers at the end of each rod provide flexibility. 
